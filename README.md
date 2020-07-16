@@ -1,6 +1,7 @@
 # MealApp
 
 A new Flutter project.
+You have to create Build folder before build flutter app.
 
 ## Getting Started
 
